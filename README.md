@@ -1,2 +1,2 @@
 # Chatbot_Pizzaria
-Exemplo de Chatboot Pizzaria usando Linguagem Pyton
+Exemplo de Chatboot Pizzaria usando Linguagem Python
